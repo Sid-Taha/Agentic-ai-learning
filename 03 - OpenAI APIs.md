@@ -1,5 +1,5 @@
 
-### 🚀 What Are OpenAI APIs?
+# 🚀 What Are OpenAI APIs?
 Think of **APIs** like magical Lego pieces 🧱 that help you build talking robots. OpenAI gives us **two main kinds**:
 
 ---
