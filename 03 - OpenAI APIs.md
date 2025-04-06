@@ -88,4 +88,6 @@ These are like fun little computer lessons that show:
 
 ---
 
-Want me to turn this into a cute cheat sheet or poster-style version? 😄
+1 - [Introduction to basic prompting using both APIs](https://colab.research.google.com/drive/1jkZ4t8nkntiqwasUH972ThdCGgQq6Fof?usp=sharing)
+1 - []()
+
